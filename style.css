@@ -1,0 +1,20 @@
+
+#family_member_image
+{
+    width: 600px;
+
+}
+  
+#family_member_name
+{
+    background-color: yellow;
+    font-size: 35px;
+    font-family: monospace;
+}
+
+#pagttl
+{
+    background-color: yellowgreen;
+    font-size: 40px;
+    font-family: monospace;
+}
